@@ -1,3 +1,6 @@
+GitHub: Hay muchisimos ficheros tanto de Node como de Sequelize y Express, por ello, usar los comandos de abajo para descargar de manera local e individual todos los paquetes de Node, Express y Sequelize y despues instalar estos ficheros
+
+
 He instalado Node.js como entorno de servidor
 
 He instalado Express.js como framework de desarrollo de API
